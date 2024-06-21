@@ -1,4 +1,4 @@
-# Face detect tion web application
+# Face detection web application
 ## Client
 ### Face-detection-app
 ## Server
